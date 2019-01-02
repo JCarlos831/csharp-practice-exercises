@@ -1,0 +1,11 @@
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/section5_control_flow/excercises/MaxOfTwoNumbers/MaxOfTwoNumbers/bin/Debug/netcoreapp2.1/MaxOfTwoNumbers.deps.json
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/section5_control_flow/excercises/MaxOfTwoNumbers/MaxOfTwoNumbers/bin/Debug/netcoreapp2.1/MaxOfTwoNumbers.runtimeconfig.json
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/section5_control_flow/excercises/MaxOfTwoNumbers/MaxOfTwoNumbers/bin/Debug/netcoreapp2.1/MaxOfTwoNumbers.runtimeconfig.dev.json
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/section5_control_flow/excercises/MaxOfTwoNumbers/MaxOfTwoNumbers/bin/Debug/netcoreapp2.1/MaxOfTwoNumbers.dll
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/section5_control_flow/excercises/MaxOfTwoNumbers/MaxOfTwoNumbers/bin/Debug/netcoreapp2.1/MaxOfTwoNumbers.pdb
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/section5_control_flow/excercises/MaxOfTwoNumbers/MaxOfTwoNumbers/obj/Debug/netcoreapp2.1/MaxOfTwoNumbers.csprojAssemblyReference.cache
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/section5_control_flow/excercises/MaxOfTwoNumbers/MaxOfTwoNumbers/obj/Debug/netcoreapp2.1/MaxOfTwoNumbers.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/section5_control_flow/excercises/MaxOfTwoNumbers/MaxOfTwoNumbers/obj/Debug/netcoreapp2.1/MaxOfTwoNumbers.AssemblyInfoInputs.cache
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/section5_control_flow/excercises/MaxOfTwoNumbers/MaxOfTwoNumbers/obj/Debug/netcoreapp2.1/MaxOfTwoNumbers.AssemblyInfo.cs
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/section5_control_flow/excercises/MaxOfTwoNumbers/MaxOfTwoNumbers/obj/Debug/netcoreapp2.1/MaxOfTwoNumbers.dll
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/section5_control_flow/excercises/MaxOfTwoNumbers/MaxOfTwoNumbers/obj/Debug/netcoreapp2.1/MaxOfTwoNumbers.pdb

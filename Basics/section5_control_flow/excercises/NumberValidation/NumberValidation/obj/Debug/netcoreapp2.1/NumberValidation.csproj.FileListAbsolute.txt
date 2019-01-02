@@ -1,0 +1,11 @@
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/section5_control_flow/excercises/NumberValidation/NumberValidation/bin/Debug/netcoreapp2.1/NumberValidation.deps.json
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/section5_control_flow/excercises/NumberValidation/NumberValidation/bin/Debug/netcoreapp2.1/NumberValidation.runtimeconfig.json
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/section5_control_flow/excercises/NumberValidation/NumberValidation/bin/Debug/netcoreapp2.1/NumberValidation.runtimeconfig.dev.json
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/section5_control_flow/excercises/NumberValidation/NumberValidation/bin/Debug/netcoreapp2.1/NumberValidation.dll
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/section5_control_flow/excercises/NumberValidation/NumberValidation/bin/Debug/netcoreapp2.1/NumberValidation.pdb
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/section5_control_flow/excercises/NumberValidation/NumberValidation/obj/Debug/netcoreapp2.1/NumberValidation.csprojAssemblyReference.cache
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/section5_control_flow/excercises/NumberValidation/NumberValidation/obj/Debug/netcoreapp2.1/NumberValidation.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/section5_control_flow/excercises/NumberValidation/NumberValidation/obj/Debug/netcoreapp2.1/NumberValidation.AssemblyInfoInputs.cache
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/section5_control_flow/excercises/NumberValidation/NumberValidation/obj/Debug/netcoreapp2.1/NumberValidation.AssemblyInfo.cs
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/section5_control_flow/excercises/NumberValidation/NumberValidation/obj/Debug/netcoreapp2.1/NumberValidation.dll
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/section5_control_flow/excercises/NumberValidation/NumberValidation/obj/Debug/netcoreapp2.1/NumberValidation.pdb

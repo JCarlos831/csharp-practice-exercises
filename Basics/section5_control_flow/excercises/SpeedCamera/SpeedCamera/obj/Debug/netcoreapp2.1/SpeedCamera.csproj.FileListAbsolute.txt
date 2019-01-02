@@ -1,0 +1,11 @@
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/section5_control_flow/excercises/SpeedCamera/SpeedCamera/bin/Debug/netcoreapp2.1/SpeedCamera.deps.json
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/section5_control_flow/excercises/SpeedCamera/SpeedCamera/bin/Debug/netcoreapp2.1/SpeedCamera.runtimeconfig.json
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/section5_control_flow/excercises/SpeedCamera/SpeedCamera/bin/Debug/netcoreapp2.1/SpeedCamera.runtimeconfig.dev.json
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/section5_control_flow/excercises/SpeedCamera/SpeedCamera/bin/Debug/netcoreapp2.1/SpeedCamera.dll
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/section5_control_flow/excercises/SpeedCamera/SpeedCamera/bin/Debug/netcoreapp2.1/SpeedCamera.pdb
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/section5_control_flow/excercises/SpeedCamera/SpeedCamera/obj/Debug/netcoreapp2.1/SpeedCamera.csprojAssemblyReference.cache
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/section5_control_flow/excercises/SpeedCamera/SpeedCamera/obj/Debug/netcoreapp2.1/SpeedCamera.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/section5_control_flow/excercises/SpeedCamera/SpeedCamera/obj/Debug/netcoreapp2.1/SpeedCamera.AssemblyInfoInputs.cache
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/section5_control_flow/excercises/SpeedCamera/SpeedCamera/obj/Debug/netcoreapp2.1/SpeedCamera.AssemblyInfo.cs
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/section5_control_flow/excercises/SpeedCamera/SpeedCamera/obj/Debug/netcoreapp2.1/SpeedCamera.dll
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/section5_control_flow/excercises/SpeedCamera/SpeedCamera/obj/Debug/netcoreapp2.1/SpeedCamera.pdb
