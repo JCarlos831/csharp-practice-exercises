@@ -1,0 +1,11 @@
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/loops/exercises/Factorial/Factorial/bin/Debug/netcoreapp2.1/Factorial.deps.json
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/loops/exercises/Factorial/Factorial/bin/Debug/netcoreapp2.1/Factorial.runtimeconfig.json
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/loops/exercises/Factorial/Factorial/bin/Debug/netcoreapp2.1/Factorial.runtimeconfig.dev.json
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/loops/exercises/Factorial/Factorial/bin/Debug/netcoreapp2.1/Factorial.dll
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/loops/exercises/Factorial/Factorial/bin/Debug/netcoreapp2.1/Factorial.pdb
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/loops/exercises/Factorial/Factorial/obj/Debug/netcoreapp2.1/Factorial.csprojAssemblyReference.cache
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/loops/exercises/Factorial/Factorial/obj/Debug/netcoreapp2.1/Factorial.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/loops/exercises/Factorial/Factorial/obj/Debug/netcoreapp2.1/Factorial.AssemblyInfoInputs.cache
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/loops/exercises/Factorial/Factorial/obj/Debug/netcoreapp2.1/Factorial.AssemblyInfo.cs
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/loops/exercises/Factorial/Factorial/obj/Debug/netcoreapp2.1/Factorial.dll
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/loops/exercises/Factorial/Factorial/obj/Debug/netcoreapp2.1/Factorial.pdb

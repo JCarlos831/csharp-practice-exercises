@@ -1,0 +1,11 @@
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/loops/exercises/SumOfNumbers/SumOfNumbers/bin/Debug/netcoreapp2.1/SumOfNumbers.deps.json
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/loops/exercises/SumOfNumbers/SumOfNumbers/bin/Debug/netcoreapp2.1/SumOfNumbers.runtimeconfig.json
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/loops/exercises/SumOfNumbers/SumOfNumbers/bin/Debug/netcoreapp2.1/SumOfNumbers.runtimeconfig.dev.json
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/loops/exercises/SumOfNumbers/SumOfNumbers/bin/Debug/netcoreapp2.1/SumOfNumbers.dll
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/loops/exercises/SumOfNumbers/SumOfNumbers/bin/Debug/netcoreapp2.1/SumOfNumbers.pdb
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/loops/exercises/SumOfNumbers/SumOfNumbers/obj/Debug/netcoreapp2.1/SumOfNumbers.csprojAssemblyReference.cache
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/loops/exercises/SumOfNumbers/SumOfNumbers/obj/Debug/netcoreapp2.1/SumOfNumbers.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/loops/exercises/SumOfNumbers/SumOfNumbers/obj/Debug/netcoreapp2.1/SumOfNumbers.AssemblyInfoInputs.cache
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/loops/exercises/SumOfNumbers/SumOfNumbers/obj/Debug/netcoreapp2.1/SumOfNumbers.AssemblyInfo.cs
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/loops/exercises/SumOfNumbers/SumOfNumbers/obj/Debug/netcoreapp2.1/SumOfNumbers.dll
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/loops/exercises/SumOfNumbers/SumOfNumbers/obj/Debug/netcoreapp2.1/SumOfNumbers.pdb

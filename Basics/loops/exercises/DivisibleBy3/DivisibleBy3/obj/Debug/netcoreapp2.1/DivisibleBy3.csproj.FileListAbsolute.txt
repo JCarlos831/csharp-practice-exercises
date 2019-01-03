@@ -1,0 +1,11 @@
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/loops/exercises/DivisibleBy3/DivisibleBy3/bin/Debug/netcoreapp2.1/DivisibleBy3.deps.json
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/loops/exercises/DivisibleBy3/DivisibleBy3/bin/Debug/netcoreapp2.1/DivisibleBy3.runtimeconfig.json
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/loops/exercises/DivisibleBy3/DivisibleBy3/bin/Debug/netcoreapp2.1/DivisibleBy3.runtimeconfig.dev.json
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/loops/exercises/DivisibleBy3/DivisibleBy3/bin/Debug/netcoreapp2.1/DivisibleBy3.dll
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/loops/exercises/DivisibleBy3/DivisibleBy3/bin/Debug/netcoreapp2.1/DivisibleBy3.pdb
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/loops/exercises/DivisibleBy3/DivisibleBy3/obj/Debug/netcoreapp2.1/DivisibleBy3.csprojAssemblyReference.cache
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/loops/exercises/DivisibleBy3/DivisibleBy3/obj/Debug/netcoreapp2.1/DivisibleBy3.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/loops/exercises/DivisibleBy3/DivisibleBy3/obj/Debug/netcoreapp2.1/DivisibleBy3.AssemblyInfoInputs.cache
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/loops/exercises/DivisibleBy3/DivisibleBy3/obj/Debug/netcoreapp2.1/DivisibleBy3.AssemblyInfo.cs
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/loops/exercises/DivisibleBy3/DivisibleBy3/obj/Debug/netcoreapp2.1/DivisibleBy3.dll
+/Users/JuanCMontoya/Projects/RiderProjects/MoshHamedani/CSharpFundamentals/Basics/loops/exercises/DivisibleBy3/DivisibleBy3/obj/Debug/netcoreapp2.1/DivisibleBy3.pdb
